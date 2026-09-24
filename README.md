@@ -16,9 +16,9 @@ Sau một tháng, Khánh nhận ra mình có mong muốn phát triển nhưng v�
 Dựa trên thông tin trong tình huống, hãy sử dụng mô hình **IKIGAI** để phân tích những dữ kiện hiện có về Khánh.
 
 Thành phần IKIGAI	Phân tích từ tình huống
-What I Love - Khánh yêu thích/hứng thú với điều gì?	Khánh thích giao tiếp, tham gia các hoạt động tập thể, trình bày ý tưởng và hỗ trợ mọi người. Khánh có vẻ hứng thú với môi trường có sự tương tác, hợp tác và làm việc với nhiều người.
-What I Am Good At - Khánh đang có khả năng làm tốt điều gì?	Khánh khá tự tin khi trình bày trước nhóm và có khả năng kết nối các thành viên. Đây là những dấu hiệu cho thấy Khánh có thế mạnh bước đầu về giao tiếp, thuyết trình, làm việc nhóm và tạo sự gắn kết.
-What the World Needs - Môi trường cần gì?	Môi trường học tập và làm việc cần các năng lực như giao tiếp, hợp tác, sử dụng công nghệ, giải quyết vấn đề và thích nghi. Trong đó, khả năng trình bày, kết nối và hỗ trợ mọi người của Khánh có thể đáp ứng một phần nhu cầu về phối hợp nhóm và giao tiếp..
+What I Love - Khánh yêu thích/hứng thú với điều gì?	Khánh thích giao tiếp, tham gia các hoạt động tập thể, trình bày ý tưởng và hỗ trợ mọi người. 
+What I Am Good At - Khánh đang có khả năng làm tốt điều gì?	Khánh khá tự tin khi trình bày trước nhóm và có khả năng kết nối các thành viên. 
+What the World Needs - Môi trường cần gì?	Môi trường học tập và làm việc cần các năng lực như giao tiếp, hợp tác, sử dụng công nghệ, giải quyết vấn đề và thích nghi.
 What I Can Be Paid For - Khánh có thể phát triển năng lực nào thành giá trị nghề nghiệp?	Kỹ năng giao tiếp, thuyết trình, kết nối và điều phối nhóm có thể trở thành nền tảng cho nhiều hướng nghề nghiệp khác nhau. T
 
 Từ kết quả trên, hãy:
@@ -48,11 +48,11 @@ Sau đó, dựa trên 01 hướng phát triển đã lựa chọn ở Nhiệm v�
 
 Nội dung                                          |	Đề xuất
 Điểm chưa phù hợp của mục tiêu hiện tại	Mục tiêu   |"Từ học kỳ này mình sẽ phát triển bản thân tốt hơn để chuẩn bị cho tương lai" không phù hợp vì: - Không cụ thể: Không nói rõ Khánh sẽ phát triển kỹ năng gì, liên quan đến hướng nào đã lựa chọn. - Không đo lường được: Không có chỉ số để đánh giá khi nào "phát triển tốt hơn" được hoàn thành. - Không có khung thời gian: Không xác định thời gian cụ thể trong học kỳ để thực hiện và đánh giá.
-S - Specific                                        |	Khánh sẽ phát triển kỹ năng điều phối nhóm và trình bày dự án, dựa trên hướng ưu tiên là quản lý dự án đã lựa chọn.
+S - Specific                                        |	Khánh sẽ phát triển kỹ năng điều phối nhóm và trình bày dự án, 
 M - Measurable                                      |	Hoàn thành ít nhất 2 dự án nhóm trong học kỳ với vai trò điều phối viên; đạt điểm thuyết trình dự án nhóm từ 8.0 trở lên (thang điểm 10) cho cả 2 dự án.
-A - Achievable                                       	Với năng lực hiện tại của Khánh (thể hiện qua việc được bạn bè nhận xét tự tin trình bày và kết nối thành viên), việc đảm nhận vai trò điều phối viên trong 2 dự án nhóm trong học kỳ là hoàn toàn khả thi, không đòi hỏi quá nhiều thời gian hoặc kỹ năng chưa có cơ sở.
-R - Relevant                                         |	Mục tiêu này trực tiếp liên quan đến hướng phát triển quản lý dự án đã lựa chọn, giúp Khánh tích lũy kinh nghiệm thực tế, củng cố thế mạnh về giao tiếp và kết nối, đồng thời chuẩn bị tốt hơn cho các công việc liên quan đến điều phối nhóm.
-T - Time-bound                                        |	Hoàn thành tất cả các yêu cầu của mục tiêu trong vòng 15 tuần (toàn bộ thời gian của học kỳ hiện tại, tính từ lúc đặt mục tiêu).
+A - Achievable                                       	Với năng lực hiện tại của Khánh  việc đảm nhận vai trò điều phối viên trong 2 dự án nhóm trong học kỳ là hoàn toàn khả thi, 
+R - Relevant                                         |	Mục tiêu này trực tiếp liên quan đến hướng phát triển quản lý dự án đã lựa chọn, giúp Khánh tích lũy kinh nghiệm thực tế, củng cố thế mạnh về giao tiếp và kết nối,nhóm.
+T - Time-bound                                        |	Hoàn thành tất cả các yêu cầu của mục tiêu trong vòng 15 tuần 
 Mục tiêu SMART hoàn chỉnh cho Khánh	Trong 15 tuần của học kỳ này, Khánh sẽ đảm nhận vai trò điều phối viên cho 2 bài tập nhóm, hoàn thành cả 2 dự án và đạt điểm thuyết trình dự án nhóm từ 8.0 trở lên (thang điểm 10) cho cả 2 sản phẩm.
 *.
 
@@ -65,10 +65,10 @@ Khánh thường bắt đầu rất hào hứng nhưng khó duy trì khi lịch 
 Tiếp tục hoàn thiện bằng cách:
 
 1. Viết thói quen theo cấu trúc: “Sau khi…, Khánh sẽ…”.
-       Sau khi ăn tối xong vào mỗi tối thứ Bảy và nhìn thấy lịch học trên điện thoại, Khánh sẽ dành 5 phút để kiểm tra và ghi nhận tiến độ vai trò điều phối nhóm, sau đó cho phép mình xem video yêu thích.
+       Sau khi ăn tối xong vào mỗi tối thứ Bảy và nhìn thấy lịch học trên điện thoại, Khánh sẽ dành 5 phút để kiểm tra và ghi nhận tiến độ vai trò điều phối nhóm,
 
 2. Thiết kế một phiên bản theo Two-Minute Rule để Khánh vẫn có thể bắt đầu trong những ngày bận hoặc thiếu động lực.
-       Trong những ngày bận hoặc không có động lực, thay vì 5 phút, Khánh chỉ cần làm 2 việc: mở danh sách công việc nhóm, đánh dấu 1 công việc nhỏ đã hoàn thành (ví dụ: gửi nhắc nhở thời gian họp nhóm), và ghi nhận 1 thành tích nhỏ vào sổ tay.
+       Trong những ngày bận hoặc không có động lực, thay vì 5 phút, Khánh chỉ cần làm 2 việc: mở danh sách công việc nhóm, đánh dấu 1 công việc nhỏ đã hoàn thành 
 
 3. Giải thích vì sao hệ thống này có khả năng duy trì tốt hơn cách *“khi nào có động lực thì làm”*.
       Cách “khi nào có động lực thì làm” dựa trên ý thức và động lực tự nhiên - thứ mà Khánh thường thiếu khi lịch bận hoặc cảm thấy mệt, nên dễ bị bỏ dở. Trong khi đó, hệ thống Habit Loop hoạt động theo cơ chế tự động hóa hành động: dấu hiệu cố định (tối thứ Bảy) tạo ra thói quen tự động, hành động nhỏ (2 phút hoặc 5 phút) không đòi hỏi nhiều năng lượng, và phần thưởng ngay lập tức củng cố hành động giúp thói quen trở nên tự nhiên theo thời gian
